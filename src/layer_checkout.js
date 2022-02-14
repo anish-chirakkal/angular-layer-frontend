@@ -2,7 +2,7 @@ function checkout(jsToken) {
 
     Layer.checkout({
         token: jsToken,
-        accesskey: "efcaab50-983b-11eb-9420-c354255a3483",
+        accesskey: "<Pass your secret key here>",
         theme: {
             // logo : "https://open-logo.png",
             color: "#3d9080",
