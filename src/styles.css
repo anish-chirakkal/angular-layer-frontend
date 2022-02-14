@@ -1,0 +1,27 @@
+.myclass{
+    color: #0e0d0c;
+    text-align: center;
+    box-shadow: 1px 1px 13px 6px #b5acac;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 1;
+}
+.alert{
+    height: 5px;
+    text-align: center;
+    margin-top: 1px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.alert-danger{
+    margin-top: 1px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+body{
+    height: 100vh;
+}
